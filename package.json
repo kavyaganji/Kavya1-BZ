@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavyaganji/Kavya1-BZ.git"
+  },
+  "author": "Kavya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavyaganji/Kavya1-BZ/issues"
+  },
+  "homepage": "https://github.com/kavyaganji/Kavya1-BZ#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
